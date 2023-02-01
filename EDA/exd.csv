@@ -1,0 +1,976 @@
+,n_enrolled,Level,subject,language,subtitles,price
+0,124980.0,Introductory,Education & Teacher Training,English,English,49.0
+1,293864.0,Introductory,Computer Science,English,English,49.0
+2,2442271.0,Introductory,Computer Science,English,English,90.0
+3,129555.0,Intermediate,Data Analysis & Statistics,English,English,199.0
+4,81140.0,Introductory,Computer Science,English,English,249.0
+5,301793.0,Introductory,Business & Management,English,English,199.0
+6,32847.0,Intermediate,Communication,English,English,5.0
+7,67073.0,Introductory,Business & Management,English,English,199.0
+8,23061.0,Introductory,Health & Safety,English,English,49.0
+9,92411.0,Introductory,Business & Management,English,English,99.0
+10,66835.0,Introductory,Math,English,English,49.0
+11,44711.0,Introductory,Communication,English,English,49.0
+12,83398.0,Introductory,Computer Science,English,English,99.0
+13,,Introductory,Humanities,English,English,99.0
+14,6366.0,Intermediate,Ethics,English,"English, Español, Русский",49.0
+15,72767.0,Introductory,Economics & Finance,English,"English, 中文, 中文",199.0
+16,528782.0,Introductory,Data Analysis & Statistics,English,English,49.0
+17,228809.0,Introductory,Data Analysis & Statistics,English,English,39.0
+18,39085.0,Introductory,Food & Nutrition,English,English,49.0
+19,103640.0,Advanced,Business & Management,English,English,399.0
+20,258006.0,Introductory,Computer Science,English,English,199.0
+21,346748.0,Intermediate,Computer Science,English,English,149.0
+22,320225.0,Introductory,Humanities,English,English,99.0
+23,698950.0,Intermediate,Computer Science,English,English,90.0
+24,414181.0,Intermediate,Business & Management,English,English,125.0
+25,380167.0,Introductory,Biology & Life Sciences,English,English,99.0
+26,392588.0,Introductory,Humanities,English,"Deutsch, English, Español, Português, 中文",99.0
+27,276209.0,Introductory,Data Analysis & Statistics,English,English,49.0
+28,212453.0,Introductory,Social Sciences,English,English,99.0
+29,1103777.0,Introductory,Communication,English,English,99.0
+30,406181.0,Introductory,Architecture,English,English,99.0
+31,1022489.0,Introductory,Communication,English,English,49.0
+32,257600.0,Intermediate,Medicine,English,English,199.0
+33,262183.0,Intermediate,Computer Science,English,English,99.0
+34,140782.0,Introductory,Humanities,English,English,99.0
+35,400169.0,Introductory,Communication,English,"English, Español",40.0
+36,110024.0,Introductory,Environmental Studies,English,English,99.0
+37,79671.0,Introductory,Business & Management,Español,"English, Español",49.0
+38,314586.0,Intermediate,Data Analysis & Statistics,English,English,249.0
+39,145011.0,Introductory,Chemistry,English,English,199.0
+40,123870.0,Introductory,Art & Culture,English,English,99.0
+41,91566.0,Introductory,Social Sciences,English,English,25.0
+42,284279.0,Introductory,Computer Science,Español,Español,50.0
+43,91983.0,Introductory,Social Sciences,English,English,49.0
+44,127353.0,Intermediate,Social Sciences,English,English,99.0
+45,87336.0,Introductory,Computer Science,English,English,99.0
+46,171258.0,Introductory,Data Analysis & Statistics,English,English,49.0
+47,125051.0,Introductory,Humanities,English,English,99.0
+48,475614.0,Introductory,Social Sciences,English,English,169.0
+49,231131.0,Introductory,Communication,English,"English, Español",99.0
+50,57814.0,Introductory,Business & Management,English,English,99.0
+51,135859.0,Introductory,Data Analysis & Statistics,English,English,49.0
+52,117410.0,Intermediate,Education & Teacher Training,English,"English, Español",70.0
+53,80082.0,Introductory,Medicine,English,English,99.0
+54,105146.0,Introductory,Education & Teacher Training,English,English,70.0
+55,182462.0,Introductory,Language,Italiano,Italiano,49.0
+56,53630.0,Introductory,Language,English,"English, 日本語",49.0
+57,306787.0,Introductory,Humanities,English,English,49.0
+58,95324.0,Introductory,Environmental Studies,English,English,99.0
+59,97291.0,Intermediate,Data Analysis & Statistics,English,English,99.0
+60,102075.0,Intermediate,Medicine,English,English,99.0
+61,88256.0,Introductory,Data Analysis & Statistics,English,English,49.0
+62,58626.0,Introductory,Health & Safety,English,English,79.0
+63,182295.0,Introductory,Humanities,English,English,99.0
+64,642088.0,Introductory,Computer Science,English,English,199.0
+65,81221.0,Introductory,Medicine,English,English,99.0
+66,48938.0,Introductory,Humanities,English,English,49.0
+67,112623.0,Introductory,Communication,Español,Español,49.0
+68,88243.0,Intermediate,Business & Management,English,"English, हिन्दी",150.0
+69,141966.0,Introductory,Computer Science,English,English,99.0
+70,51679.0,Intermediate,Food & Nutrition,English,English,49.0
+71,104760.0,Introductory,Business & Management,English,English,69.0
+72,74060.0,Introductory,Humanities,English,English,49.0
+73,61139.0,Introductory,Humanities,English,English,49.0
+74,322701.0,Introductory,Communication,English,English,49.0
+75,62803.0,Introductory,Data Analysis & Statistics,English,English,99.0
+76,37045.0,Introductory,Computer Science,English,English,200.0
+77,84874.0,Introductory,Biology & Life Sciences,English,English,99.0
+78,31369.0,Introductory,Business & Management,English,English,49.0
+79,75310.0,Introductory,Data Analysis & Statistics,English,English,49.0
+80,335895.0,Introductory,Computer Science,English,English,199.0
+81,66683.0,Introductory,Data Analysis & Statistics,English,English,49.0
+82,98093.0,Introductory,Business & Management,English,English,225.0
+83,39540.0,Introductory,Computer Science,English,English,149.0
+84,64584.0,Introductory,Data Analysis & Statistics,English,English,49.0
+85,187138.0,Intermediate,Engineering,English,English,199.0
+86,49340.0,Introductory,Computer Science,English,English,49.0
+87,110086.0,Introductory,Humanities,English,English,99.0
+88,80161.0,Introductory,Data Analysis & Statistics,English,English,39.0
+89,94079.0,Introductory,Data Analysis & Statistics,English,English,39.0
+90,111785.0,Intermediate,Computer Science,Español,Español,75.0
+91,205615.0,Advanced,Data Analysis & Statistics,English,English,300.0
+92,85034.0,Introductory,Biology & Life Sciences,English,English,99.0
+93,44125.0,Introductory,Humanities,English,English,99.0
+94,77991.0,Intermediate,Language,English,English,50.0
+95,97291.0,Intermediate,Data Analysis & Statistics,English,English,99.0
+96,96972.0,Introductory,Humanities,English,English,99.0
+97,81004.0,Introductory,Computer Science,Español,Español,49.0
+98,28879.0,Introductory,Data Analysis & Statistics,English,English,99.0
+99,78443.0,Advanced,Data Analysis & Statistics,English,English,149.0
+100,67029.0,Introductory,Humanities,English,English,49.0
+101,126850.0,Introductory,Medicine,English,English,139.0
+102,76874.0,Introductory,Social Sciences,English,"English, Português",99.0
+103,24208.0,Introductory,Philosophy & Ethics,English,English,99.0
+104,41838.0,Introductory,Business & Management,English,English,49.0
+105,44045.0,Introductory,Social Sciences,English,English,49.0
+106,85561.0,Advanced,Computer Science,English,English,300.0
+107,43766.0,Introductory,Data Analysis & Statistics,English,English,39.0
+108,52639.0,Introductory,Electronics,English,"English, 中文",169.0
+109,91788.0,Intermediate,Business & Management,English,English,50.0
+110,54136.0,Introductory,Business & Management,English,English,99.0
+111,92004.0,Intermediate,Math,English,English,149.0
+112,61989.0,Introductory,Business & Management,English,"English, हिन्दी",150.0
+113,23728.0,Introductory,Art & Culture,Español,Español,25.0
+114,119891.0,Introductory,Health & Safety,English,English,99.0
+115,38939.0,Introductory,History,English,English,99.0
+116,88789.0,Introductory,Literature,English,English,149.0
+117,39184.0,Introductory,Data Analysis & Statistics,English,English,39.0
+118,41279.0,Introductory,Communication,Español,Español,49.0
+119,62673.0,Introductory,Physics,English,English,169.0
+120,21613.0,Introductory,Computer Science,Español,Español,49.0
+121,70682.0,Intermediate,Computer Science,English,English,249.0
+122,37598.0,Intermediate,Biology & Life Sciences,English,"English, Français",49.0
+123,113602.0,Introductory,Business & Management,English,English,125.0
+124,160112.0,Introductory,Computer Science,English,English,199.0
+125,113592.0,Introductory,Business & Management,English,"English, हिन्दी",150.0
+126,57208.0,Introductory,Language,English,English,149.0
+127,20502.0,Introductory,Computer Science,English,English,50.0
+128,104108.0,Introductory,Computer Science,English,English,49.0
+129,145049.0,Introductory,Business & Management,English,English,199.0
+130,91406.0,Intermediate,Computer Science,English,English,149.0
+131,37501.0,Introductory,Humanities,English,English,99.0
+132,103704.0,Intermediate,Language,English,English,50.0
+133,29101.0,Introductory,Language,English,English,49.0
+134,266978.0,Advanced,Data Analysis & Statistics,English,English,350.0
+135,45867.0,Introductory,Business & Management,English,English,199.0
+136,47549.0,Intermediate,Business & Management,English,English,5.0
+137,69104.0,Introductory,History,English,"English, 中文",139.0
+138,56040.0,Introductory,Language,English,English,149.0
+139,147512.0,Introductory,Biology & Life Sciences,English,"English, 中文",150.0
+140,22969.0,Introductory,Art & Culture,Español,Español,19.0
+141,50949.0,Introductory,Data Analysis & Statistics,English,English,99.0
+142,301585.0,Introductory,Communication,English,English,49.0
+143,31868.0,Introductory,Humanities,English,English,49.0
+144,67687.0,Introductory,Language,English,"English, Español",50.0
+145,37452.0,Intermediate,Economics & Finance,English,English,25.0
+146,73208.0,Introductory,Computer Science,English,English,90.0
+147,18883.0,Introductory,Social Sciences,Español,Español,25.0
+148,58532.0,Intermediate,Language,English,English,50.0
+149,54805.0,Introductory,Medicine,English,English,99.0
+150,306286.0,Introductory,Business & Management,Español,Español,49.0
+151,27968.0,Introductory,Data Analysis & Statistics,English,English,50.0
+152,79365.0,Introductory,Humanities,English,English,99.0
+153,265104.0,Advanced,Computer Science,English,English,249.0
+154,35504.0,Introductory,Social Sciences,English,English,49.0
+155,64261.0,Introductory,Economics & Finance,Español,Español,50.0
+156,17581.0,Introductory,Art & Culture,English,English,100.0
+157,24108.0,Advanced,Economics & Finance,English,English,450.0
+158,126093.0,Intermediate,Business & Management,English,"English, हिन्दी",150.0
+159,80010.0,Intermediate,Business & Management,English,"English, हिन्दी",150.0
+160,24618.0,Introductory,Business & Management,Español,"English, Español",119.0
+161,169126.0,Introductory,Business & Management,English,English,150.0
+162,215059.0,Introductory,Computer Science,English,English,149.0
+163,106286.0,Advanced,Data Analysis & Statistics,English,English,350.0
+164,241287.0,Intermediate,Computer Science,English,English,199.0
+165,37426.0,Introductory,Humanities,English,English,49.0
+166,64142.0,Introductory,Biology & Life Sciences,English,English,99.0
+167,20163.0,Intermediate,Computer Science,English,English,149.0
+168,16470.0,Introductory,Computer Science,Español,Español,75.0
+169,54787.0,Introductory,Humanities,English,English,49.0
+170,47451.0,Intermediate,Language,English,English,50.0
+171,38331.0,Introductory,Humanities,English,English,49.0
+172,48105.0,Introductory,Food & Nutrition,Español,Español,50.0
+173,50030.0,Introductory,Computer Science,English,English,90.0
+174,37126.0,Introductory,Engineering,English,English,50.0
+175,42101.0,Intermediate,Data Analysis & Statistics,English,English,39.0
+176,24414.0,Introductory,Philosophy & Ethics,English,English,50.0
+177,68422.0,Introductory,Humanities,English,English,60.0
+178,208582.0,Introductory,Biology & Life Sciences,English,English,99.0
+179,66771.0,Introductory,History,English,"English, 中文",139.0
+180,57234.0,Introductory,Humanities,English,English,99.0
+181,48049.0,Introductory,Literature,English,English,99.0
+182,24259.0,Introductory,Social Sciences,English,English,49.0
+183,55293.0,Advanced,Engineering,English,English,199.0
+184,62798.0,Intermediate,Business & Management,English,"English, हिन्दी",150.0
+185,50540.0,Introductory,Humanities,English,English,99.0
+186,47184.0,Advanced,Data Analysis & Statistics,Español,Español,75.0
+187,95163.0,Introductory,Computer Science,English,English,199.0
+188,19905.0,Intermediate,Computer Science,English,"اللغة العربية, English, עברית",149.0
+189,55937.0,Intermediate,Communication,English,English,99.0
+190,122977.0,Intermediate,Communication,English,English,99.0
+191,73021.0,Introductory,Computer Science,English,English,199.0
+192,17526.0,Introductory,Language,English,English,49.0
+193,19687.0,Introductory,Business & Management,Español,"English, Español",119.0
+194,91062.0,Intermediate,Social Sciences,English,English,149.0
+195,31354.0,Introductory,Biology & Life Sciences,English,English,79.0
+196,48899.0,Introductory,Literature,English,English,99.0
+197,23283.0,Introductory,Humanities,English,English,49.0
+198,15965.0,Introductory,Health & Safety,Español,Español,49.0
+199,66764.0,Introductory,Business & Management,English,English,139.0
+200,45029.0,Introductory,Business & Management,English,English,49.0
+201,12227.0,Introductory,Business & Management,English,English,149.0
+202,79424.0,Introductory,Business & Management,English,"English, Español, Français, עברית, Indonesian, Italiano, 日本語, Português, Türkçe",99.0
+203,56171.0,Intermediate,Engineering,English,English,50.0
+204,11764.0,Introductory,Computer Science,Español,Español,49.0
+205,55228.0,Advanced,Business & Management,English,English,249.0
+206,20634.0,Introductory,Health & Safety,Español,Español,49.0
+207,56446.0,Intermediate,Business & Management,English,English,299.0
+208,17569.0,Introductory,Language,English,"English, Español",50.0
+209,11346.0,Introductory,Biology & Life Sciences,Español,Español,29.0
+210,31352.0,Intermediate,Architecture,English,English,50.0
+211,47676.0,Intermediate,Business & Management,Español,Español,25.0
+212,36369.0,Introductory,Computer Science,English,English,49.0
+213,17039.0,Intermediate,Business & Management,English,English,49.0
+214,63666.0,Introductory,Business & Management,English,English,79.0
+215,89421.0,Introductory,Computer Science,English,English,149.0
+216,11481.0,Introductory,Health & Safety,English,English,139.0
+217,10937.0,Introductory,Medicine,English,English,50.0
+218,44079.0,Introductory,Health & Safety,English,English,49.0
+219,53085.0,Intermediate,Business & Management,English,"English, हिन्दी",50.0
+220,65430.0,Introductory,Humanities,English,English,99.0
+221,11619.0,Introductory,Engineering,English,English,149.0
+222,57710.0,Intermediate,Business & Management,English,"English, हिन्दी",150.0
+223,46400.0,Introductory,Computer Science,English,English,49.0
+224,65564.0,Intermediate,Data Analysis & Statistics,Español,Español,25.0
+225,215705.0,Introductory,Communication,English,English,49.0
+226,50847.0,Intermediate,Communication,English,English,139.0
+227,16134.0,Introductory,Computer Science,English,English,150.0
+228,58463.0,Introductory,Business & Management,English,English,79.0
+229,325554.0,Introductory,Computer Science,English,"English, Español, Português, 中文",149.0
+230,60734.0,Introductory,Humanities,English,English,99.0
+231,12042.0,Intermediate,Engineering,English,English,49.0
+232,50033.0,Introductory,Communication,English,English,169.0
+233,15627.0,Introductory,Data Analysis & Statistics,English,English,39.0
+234,198861.0,Introductory,Computer Science,English,English,99.0
+235,97175.0,Introductory,Humanities,English,English,99.0
+236,91868.0,Advanced,Law,English,English,150.0
+237,38503.0,Introductory,Business & Management,English,English,5.0
+238,120019.0,Intermediate,Business & Management,English,English,150.0
+239,125069.0,Introductory,Engineering,English,English,50.0
+240,10129.0,Introductory,Communication,English,English,199.0
+241,62757.0,Introductory,Communication,日本語,"English, 日本語, 한국어, 中文",99.0
+242,33414.0,Introductory,Business & Management,English,English,199.0
+243,49351.0,Intermediate,Business & Management,English,English,125.0
+244,55154.0,Introductory,Business & Management,English,English,150.0
+245,78704.0,Introductory,Biology & Life Sciences,English,English,49.0
+246,78266.0,Intermediate,Biology & Life Sciences,English,English,99.0
+247,12339.0,Introductory,Design,English,English,50.0
+248,140419.0,Introductory,Computer Science,English,English,99.0
+249,318399.0,Introductory,Business & Management,English,English,99.0
+250,41663.0,Intermediate,Business & Management,Français,Français,25.0
+251,11913.0,Introductory,Business & Management,English,English,199.0
+252,74424.0,Advanced,Law,English,English,150.0
+253,23139.0,Intermediate,Education & Teacher Training,English,"اللغة العربية, English, Español, हिन्दी, Português",49.0
+254,21809.0,Intermediate,Data Analysis & Statistics,English,English,99.0
+255,11113.0,Introductory,Data Analysis & Statistics,English,English,199.0
+256,24986.0,Intermediate,Food & Nutrition,English,English,99.0
+257,62099.0,Intermediate,Business & Management,English,English,49.0
+258,86923.0,Introductory,Computer Science,English,English,169.0
+259,13566.0,Introductory,Art & Culture,English,English,65.0
+260,150855.0,Advanced,Computer Science,English,English,249.0
+261,98517.0,Introductory,Business & Management,Español,Español,50.0
+262,36085.0,Introductory,Business & Management,English,English,225.0
+263,55926.0,Introductory,Business & Management,English,English,99.0
+264,131197.0,Introductory,Math,English,English,139.0
+265,11823.0,Introductory,Engineering,English,English,139.0
+266,107770.0,Introductory,Communication,English,English,50.0
+267,51969.0,Introductory,Biology & Life Sciences,English,English,49.0
+268,10897.0,Introductory,Business & Management,English,"English, Español",49.0
+269,26675.0,Intermediate,Business & Management,English,English,199.0
+270,14726.0,Introductory,Social Sciences,Español,Español,49.0
+271,27757.0,Introductory,Computer Science,Español,Español,49.0
+272,56016.0,Introductory,Business & Management,English,English,99.0
+273,18830.0,Introductory,Social Sciences,Español,Español,49.0
+274,53664.0,Introductory,Economics & Finance,English,English,49.0
+275,21535.0,Introductory,Math,English,English,50.0
+276,88570.0,Intermediate,Computer Science,English,English,49.0
+277,19614.0,Introductory,Business & Management,Español,Español,149.0
+278,8862.0,Intermediate,Business & Management,English,English,149.0
+279,40972.0,Intermediate,Engineering,English,English,50.0
+280,12948.0,Intermediate,Design,English,English,99.0
+281,69358.0,Intermediate,Economics & Finance,English,English,25.0
+282,49189.0,Introductory,Economics & Finance,Español,"Español, Español",25.0
+283,53788.0,Introductory,Computer Science,English,English,99.0
+284,61722.0,Intermediate,Computer Science,English,English,149.0
+285,54976.0,Intermediate,Math,English,English,99.0
+286,55576.0,Intermediate,Math,English,English,49.0
+287,12133.0,Introductory,Medicine,Español,Español,49.0
+288,60713.0,Introductory,Business & Management,English,English,150.0
+289,35058.0,Intermediate,Language,Italiano,Italiano,49.0
+290,9796.0,Introductory,Social Sciences,English,English,50.0
+291,66769.0,Introductory,Business & Management,English,English,199.0
+292,22366.0,Intermediate,Math,English,English,49.0
+293,55376.0,Intermediate,Computer Science,English,English,99.0
+294,8314.0,Introductory,Data Analysis & Statistics,English,English,49.0
+295,34337.0,Introductory,Language,English,English,149.0
+296,36665.0,Introductory,Language,English,English,99.0
+297,84270.0,Introductory,Humanities,English,English,49.0
+298,11046.0,Introductory,Architecture,English,English,49.0
+299,22723.0,Introductory,Social Sciences,English,English,49.0
+300,8146.0,Intermediate,Business & Management,English,English,149.0
+301,15650.0,Introductory,Humanities,English,English,49.0
+302,28710.0,Introductory,Medicine,English,English,149.0
+303,17554.0,Introductory,Social Sciences,Español,English,25.0
+304,13954.0,Introductory,Design,English,English,99.0
+305,7958.0,Introductory,Education & Teacher Training,Español,"English, Español",49.0
+306,31511.0,Introductory,Computer Science,English,English,99.0
+307,29614.0,Introductory,Communication,Español,Español,49.0
+308,82008.0,Advanced,Data Analysis & Statistics,English,English,350.0
+309,103224.0,Introductory,Math,English,English,50.0
+310,58834.0,Introductory,Language,English,English,49.0
+311,36195.0,Intermediate,Data Analysis & Statistics,English,English,99.0
+312,36663.0,Introductory,Computer Science,Español,Español,50.0
+313,81839.0,Introductory,Science,English,English,199.0
+314,16619.0,Intermediate,Environmental Studies,English,"English, हिन्दी",49.0
+315,38060.0,Introductory,Humanities,English,English,99.0
+316,69413.0,Introductory,Business & Management,English,English,49.0
+317,103010.0,Introductory,Math,English,English,49.0
+318,16220.0,Introductory,Education & Teacher Training,English,English,49.0
+319,13853.0,Intermediate,Economics & Finance,English,English,25.0
+320,17273.0,Intermediate,Health & Safety,English,English,49.0
+321,69182.0,Intermediate,Computer Science,English,English,49.0
+322,42135.0,Introductory,Biology & Life Sciences,English,English,49.0
+323,50240.0,Introductory,Business & Management,English,English,50.0
+324,23288.0,Intermediate,Economics & Finance,English,English,25.0
+325,49319.0,Introductory,Biology & Life Sciences,English,English,49.0
+326,85786.0,Introductory,Computer Science,Español,Español,50.0
+327,51744.0,Introductory,Humanities,English,English,99.0
+328,31838.0,Advanced,Engineering,English,English,199.0
+329,98113.0,Introductory,Computer Science,English,English,125.0
+330,21440.0,Introductory,Computer Science,English,English,199.0
+331,71085.0,Introductory,Business & Management,English,"English, हिन्दी",150.0
+332,7303.0,Introductory,Data Analysis & Statistics,Español,Español,39.0
+333,18692.0,Intermediate,Biology & Life Sciences,English,English,150.0
+334,10500.0,Introductory,Science,Español,"English, Español",29.0
+335,27144.0,Intermediate,Food & Nutrition,English,English,99.0
+336,31570.0,Introductory,Computer Science,English,English,149.0
+337,93633.0,Introductory,Computer Science,English,English,149.0
+338,7233.0,Introductory,Computer Science,English,English,199.0
+339,15594.0,Introductory,Language,English,English,99.0
+340,21419.0,Introductory,Business & Management,Español,Español,149.0
+341,18660.0,Introductory,Design,English,English,249.0
+342,22717.0,Introductory,Data Analysis & Statistics,Español,Español,49.0
+343,17931.0,Introductory,Computer Science,Español,Español,49.0
+344,98553.0,Intermediate,Computer Science,English,"English, 中文",99.0
+345,78232.0,Introductory,Computer Science,English,English,199.0
+346,18470.0,Introductory,Communication,Español,Español,149.0
+347,10954.0,Introductory,Humanities,Español,Español,49.0
+348,37564.0,Intermediate,Data Analysis & Statistics,English,English,99.0
+349,39155.0,Introductory,Computer Science,Español,Español,49.0
+350,67961.0,Introductory,Medicine,English,English,169.0
+351,35720.0,Intermediate,Communication,English,English,49.0
+352,27239.0,Introductory,Computer Science,English,English,99.0
+353,6703.0,Introductory,Data Analysis & Statistics,English,English,49.0
+354,51493.0,Introductory,Biology & Life Sciences,English,English,49.0
+355,35529.0,Intermediate,Physics,English,English,49.0
+356,30313.0,Introductory,Communication,English,English,49.0
+357,39113.0,Introductory,Business & Management,English,English,49.0
+358,21972.0,Intermediate,Humanities,English,English,49.0
+359,45145.0,Advanced,Business & Management,English,English,150.0
+360,51402.0,Intermediate,Computer Science,English,English,149.0
+361,17484.0,Introductory,Humanities,English,English,49.0
+362,6558.0,Introductory,Communication,English,English,199.0
+363,42262.0,Introductory,Business & Management,English,English,79.0
+364,31326.0,Introductory,Business & Management,English,English,49.0
+365,6528.0,Intermediate,Economics & Finance,English,English,49.0
+366,54075.0,Intermediate,Computer Science,English,English,149.0
+367,31024.0,Intermediate,Economics & Finance,English,English,25.0
+368,13608.0,Intermediate,Computer Science,English,English,99.0
+369,44252.0,Introductory,Humanities,English,English,60.0
+370,43981.0,Introductory,Humanities,English,English,49.0
+371,16029.0,Introductory,Engineering,Español,Español,50.0
+372,35440.0,Introductory,Computer Science,English,English,99.0
+373,16268.0,Intermediate,Data Analysis & Statistics,Español,Español,49.0
+374,25553.0,Introductory,Business & Management,English,English,49.0
+375,6431.0,Introductory,Data Analysis & Statistics,Español,Español,49.0
+376,28112.0,Introductory,Computer Science,English,English,99.0
+377,18613.0,Introductory,Design,Español,Español,15.0
+378,18595.0,Introductory,Education & Teacher Training,English,"English, Español, Français, 中文",25.0
+379,10265.0,Intermediate,Computer Science,Español,Español,50.0
+380,17344.0,Intermediate,Economics & Finance,Español,Español,49.0
+381,6341.0,Introductory,Biology & Life Sciences,Español,Español,29.0
+382,36917.0,Introductory,Biology & Life Sciences,English,English,49.0
+383,35524.0,Advanced,Computer Science,English,English,125.0
+384,13042.0,Intermediate,Engineering,English,English,150.0
+385,13036.0,Introductory,Art & Culture,Español,Español,49.0
+386,39398.0,Advanced,Humanities,Italiano,Italiano,49.0
+387,9715.0,Introductory,Computer Science,English,English,150.0
+388,43415.0,Advanced,Business & Management,English,English,214.0
+389,18974.0,Introductory,Business & Management,English,English,49.0
+390,82210.0,Intermediate,Business & Management,English,,249.0
+391,35811.0,Introductory,Math,Español,Español,50.0
+392,86850.0,Advanced,Computer Science,English,English,199.0
+393,68706.0,Introductory,Computer Science,English,English,139.0
+394,43401.0,Introductory,Physics,English,English,49.0
+395,12005.0,Introductory,Humanities,English,English,49.0
+396,32726.0,Introductory,Computer Science,English,English,49.0
+397,23808.0,Intermediate,Business & Management,English,English,149.0
+398,44642.0,Introductory,Business & Management,English,English,79.0
+399,50588.0,Intermediate,Computer Science,English,English,249.0
+400,6293.0,Introductory,Business & Management,English,English,149.0
+401,33303.0,Introductory,Art & Culture,English,English,149.0
+402,270376.0,Introductory,Computer Science,English,English,99.0
+403,7165.0,Introductory,Communication,Español,Español,29.0
+404,6616.0,Advanced,Economics & Finance,English,English,25.0
+405,19010.0,Introductory,Chemistry,English,English,49.0
+406,11922.0,Introductory,Business & Management,English,English,149.0
+407,5855.0,Introductory,Literature,English,English,139.0
+408,83322.0,Intermediate,Physics,English,English,50.0
+409,18489.0,Introductory,Art & Culture,中文,"日本語, 中文",139.0
+410,5742.0,Introductory,Medicine,English,English,10.0
+411,31368.0,Introductory,Humanities,English,English,50.0
+412,99971.0,Introductory,Engineering,English,English,50.0
+413,5683.0,Introductory,Biology & Life Sciences,Español,Español,29.0
+414,18849.0,Introductory,Language,Español,Español,49.0
+415,32140.0,Intermediate,Data Analysis & Statistics,English,English,99.0
+416,48439.0,Introductory,Humanities,English,English,49.0
+417,7668.0,Introductory,Environmental Studies,English,English,5.0
+418,37558.0,Intermediate,Business & Management,English,English,99.0
+419,93965.0,Intermediate,Physics,English,English,50.0
+420,12230.0,Introductory,Economics & Finance,English,English,199.0
+421,14627.0,Introductory,Communication,Español,Español,49.0
+422,6416.0,Introductory,Business & Management,English,English,199.0
+423,36370.0,Intermediate,Data Analysis & Statistics,English,English,149.0
+424,10355.0,Intermediate,Business & Management,English,English,199.0
+425,18294.0,Advanced,Engineering,English,English,249.0
+426,18029.0,Introductory,Humanities,English,English,49.0
+427,51590.0,Intermediate,Data Analysis & Statistics,English,English,149.0
+428,13300.0,Introductory,Humanities,English,English,49.0
+429,18331.0,Introductory,Music,English,English,99.0
+430,7605.0,Intermediate,Computer Science,English,English,50.0
+431,46610.0,Intermediate,Business & Management,English,English,150.0
+432,5473.0,Introductory,Economics & Finance,Español,Español,49.0
+433,5473.0,Advanced,Economics & Finance,Español,Español,49.0
+434,8089.0,Introductory,Education & Teacher Training,English,English,49.0
+435,43993.0,Intermediate,Law,English,English,169.0
+436,68199.0,Advanced,Computer Science,English,English,249.0
+437,6824.0,Introductory,Business & Management,Français,Français,99.0
+438,9927.0,Introductory,Humanities,English,English,50.0
+439,8080.0,Introductory,Language,English,"English, 日本語",99.0
+440,26850.0,Advanced,Data Analysis & Statistics,English,English,149.0
+441,11655.0,Introductory,Business & Management,English,English,49.0
+442,30609.0,Intermediate,Computer Science,English,English,149.0
+443,26659.0,Introductory,Communication,English,English,49.0
+444,5306.0,Advanced,Computer Science,English,English,100.0
+445,16339.0,Advanced,Engineering,English,English,199.0
+446,13263.0,Intermediate,Business & Management,English,English,25.0
+447,32635.0,Introductory,Humanities,Español,Español,29.0
+448,21970.0,Introductory,Business & Management,English,English,225.0
+449,42834.0,Intermediate,Business & Management,English,English,99.0
+450,75464.0,Advanced,Business & Management,English,English,299.0
+451,54249.0,Advanced,Computer Science,English,English,149.0
+452,36787.0,Introductory,Business & Management,English,English,199.0
+453,17713.0,Introductory,History,English,English,25.0
+454,9512.0,Introductory,Business & Management,Español,"English, Español",119.0
+455,10962.0,Introductory,Economics & Finance,English,English,79.0
+456,5001.0,Introductory,Computer Science,Español,English,49.0
+457,7180.0,Advanced,Business & Management,Español,English,99.0
+458,29171.0,Introductory,Economics & Finance,English,English,5.0
+459,,Introductory,Communication,English,English,199.0
+460,8771.0,Intermediate,Business & Management,Português,Português,25.0
+461,52369.0,Introductory,Engineering,English,English,49.0
+462,,Introductory,Business & Management,Español,Español,25.0
+463,33072.0,Introductory,Computer Science,English,English,199.0
+464,31533.0,Introductory,Computer Science,Español,Español,49.0
+465,13124.0,Introductory,Music,Español,Español,49.0
+466,6238.0,Introductory,Environmental Studies,English,English,5.0
+467,9503.0,Introductory,Computer Science,English,English,149.0
+468,7346.0,Intermediate,Language,English,English,49.0
+469,7868.0,Introductory,Data Analysis & Statistics,English,English,39.0
+470,21291.0,Introductory,Humanities,English,"English, 中文",49.0
+471,12888.0,Intermediate,Physics,English,English,49.0
+472,23408.0,Intermediate,Economics & Finance,English,English,25.0
+473,14937.0,Introductory,Biology & Life Sciences,English,English,79.0
+474,32810.0,Intermediate,Business & Management,English,English,199.0
+475,12639.0,Introductory,Business & Management,Español,English,149.0
+476,64387.0,Intermediate,Social Sciences,Español,"English, Español, Português",25.0
+477,5763.0,Intermediate,Medicine,English,English,49.0
+478,27114.0,Introductory,Education & Teacher Training,English,English,49.0
+479,8313.0,Introductory,Language,English,English,99.0
+480,31419.0,Advanced,Law,English,English,150.0
+481,25111.0,Introductory,Education & Teacher Training,Español,Español,49.0
+482,20802.0,Introductory,Physics,English,English,139.0
+483,10618.0,Introductory,Medicine,English,"English, 中文, 中文",139.0
+484,15297.0,Introductory,Biology & Life Sciences,Español,Español,49.0
+485,17820.0,Introductory,Economics & Finance,English,English,129.0
+486,22011.0,Introductory,Computer Science,English,"English, 中文",199.0
+487,18168.0,Advanced,Biology & Life Sciences,English,"English, 中文",99.0
+488,12166.0,Intermediate,Environmental Studies,English,English,49.0
+489,39672.0,Intermediate,Communication,English,English,99.0
+490,12084.0,Introductory,Business & Management,Español,Español,49.0
+491,14673.0,Intermediate,Engineering,Español,Español,50.0
+492,7032.0,Introductory,Computer Science,English,English,99.0
+493,14852.0,Intermediate,Business & Management,English,English,129.0
+494,,Introductory,Computer Science,English,English,49.0
+495,7397.0,Introductory,Engineering,Español,Español,29.0
+496,45760.0,Introductory,Social Sciences,English,English,50.0
+497,56485.0,Introductory,Medicine,English,English,99.0
+498,23321.0,Introductory,Computer Science,Español,Español,49.0
+499,9665.0,Intermediate,Electronics,English,"English, 中文",169.0
+500,47083.0,Introductory,History,English,"English, 中文",139.0
+501,8697.0,Introductory,Computer Science,English,English,149.0
+502,,Introductory,Data Analysis & Statistics,Español,Español,39.0
+503,,Introductory,Language,English,English,99.0
+504,,Introductory,Humanities,English,English,50.0
+505,10118.0,Advanced,Business & Management,English,English,214.0
+506,7544.0,Introductory,Design,English,English,99.0
+507,11741.0,Introductory,Social Sciences,Español,Español,59.0
+508,11426.0,Intermediate,Social Sciences,English,"English, Русский",49.0
+509,28404.0,Introductory,Business & Management,English,English,50.0
+510,47792.0,Introductory,Economics & Finance,Español,Español,25.0
+511,16853.0,Introductory,Business & Management,Español,Español,149.0
+512,,Introductory,Math,English,English,79.0
+513,35367.0,Intermediate,Biology & Life Sciences,English,English,49.0
+514,7301.0,Introductory,Computer Science,English,English,299.0
+515,7419.0,Introductory,Environmental Studies,English,English,179.0
+516,36289.0,Advanced,Business & Management,English,,249.0
+517,42381.0,Intermediate,Computer Science,English,English,99.0
+518,22246.0,Introductory,Business & Management,English,English,49.0
+519,7056.0,Introductory,Computer Science,Español,Español,49.0
+520,9274.0,Intermediate,History,English,English,50.0
+521,14629.0,Intermediate,Business & Management,English,English,299.0
+522,,Intermediate,Business & Management,English,English,149.0
+523,10961.0,Introductory,Music,Español,Español,49.0
+524,18368.0,Intermediate,Computer Science,Español,"English, Español",49.0
+525,7017.0,Introductory,Communication,Español,Español,49.0
+526,14052.0,Intermediate,Business & Management,English,English,199.0
+527,6426.0,Intermediate,Computer Science,English,"اللغة العربية, English, עברית",149.0
+528,27338.0,Introductory,Social Sciences,English,English,49.0
+529,87539.0,Intermediate,Business & Management,English,English,79.0
+530,30731.0,Introductory,Philosophy & Ethics,中文,English,139.0
+531,9347.0,Intermediate,Electronics,English,"English, 中文",169.0
+532,6166.0,Intermediate,Medicine,English,English,49.0
+533,6273.0,Introductory,Business & Management,Français,Français,149.0
+534,8032.0,Intermediate,Architecture,English,English,50.0
+535,12667.0,Advanced,Engineering,English,English,199.0
+536,23335.0,Advanced,Law,English,English,150.0
+537,36827.0,Advanced,Computer Science,English,English,249.0
+538,28580.0,Introductory,Humanities,English,English,49.0
+539,30030.0,Intermediate,Business & Management,Français,Français,150.0
+540,38041.0,Advanced,Engineering,English,English,250.0
+541,52667.0,Introductory,Data Analysis & Statistics,English,English,49.0
+542,9114.0,Introductory,History,English,English,49.0
+543,6388.0,Introductory,Computer Science,English,English,399.0
+544,,Introductory,Computer Science,Español,Español,49.0
+545,16013.0,Intermediate,Business & Management,English,English,125.0
+546,21296.0,Intermediate,Education & Teacher Training,English,English,299.0
+547,,Intermediate,Computer Science,English,English,149.0
+548,6746.0,Intermediate,Math,English,English,159.0
+549,,Intermediate,Medicine,Español,Español,49.0
+550,20052.0,Intermediate,Physics,English,English,79.0
+551,10856.0,Introductory,Music,Español,Español,49.0
+552,,Intermediate,Business & Management,English,English,149.0
+553,,Advanced,Computer Science,English,English,129.0
+554,,Introductory,Data Analysis & Statistics,Español,Español,49.0
+555,8118.0,Intermediate,Data Analysis & Statistics,Español,Español,49.0
+556,6169.0,Intermediate,Law,English,English,25.0
+557,18690.0,Introductory,Computer Science,English,English,49.0
+558,8250.0,Introductory,Education & Teacher Training,Español,Español,25.0
+559,11275.0,Introductory,Business & Management,English,English,49.0
+560,24667.0,Advanced,Language,Italiano,Italiano,49.0
+561,,Introductory,Business & Management,English,English,149.0
+562,11812.0,Introductory,Science,English,English,49.0
+563,61824.0,Introductory,Math,English,English,50.0
+564,43125.0,Introductory,Economics & Finance,English,"اللغة العربية, English, Español, Français, Русский, 中文",5.0
+565,5367.0,Introductory,Medicine,English,English,149.0
+566,80425.0,Introductory,Data Analysis & Statistics,Español,Español,25.0
+567,7253.0,Introductory,Art & Culture,English,English,249.0
+568,12826.0,Intermediate,Social Sciences,Español,Español,25.0
+569,25024.0,Introductory,Engineering,Español,Español,75.0
+570,5289.0,Introductory,Education & Teacher Training,English,English,139.0
+571,10281.0,Advanced,Business & Management,English,English,149.0
+572,44669.0,Intermediate,Math,English,English,100.0
+573,40620.0,Intermediate,Computer Science,English,English,99.0
+574,51918.0,Intermediate,Engineering,English,English,50.0
+575,7789.0,Intermediate,Economics & Finance,Español,Español,49.0
+576,44037.0,Intermediate,Business & Management,Français,Français,150.0
+577,34550.0,Introductory,Computer Science,English,English,169.0
+578,31077.0,Introductory,Business & Management,English,English,149.0
+579,26453.0,Introductory,Biology & Life Sciences,English,English,49.0
+580,9028.0,Advanced,Economics & Finance,English,English,199.0
+581,6169.0,Introductory,Language,English,English,99.0
+582,9752.0,Introductory,Engineering,English,English,50.0
+583,39137.0,Intermediate,Computer Science,English,English,149.0
+584,,Introductory,Computer Science,Español,Español,49.0
+585,12384.0,Intermediate,Language,English,English,149.0
+586,26060.0,Intermediate,Math,Español,Español,50.0
+587,17321.0,Introductory,Humanities,English,English,149.0
+588,9010.0,Introductory,Computer Science,English,English,99.0
+589,,Intermediate,Engineering,English,English,50.0
+590,37538.0,Introductory,Social Sciences,English,English,49.0
+591,9899.0,Introductory,Education & Teacher Training,English,English,49.0
+592,31031.0,Introductory,Business & Management,English,English,249.0
+593,,Intermediate,Economics & Finance,Español,Español,49.0
+594,19520.0,Advanced,Energy & Earth Sciences,English,English,375.0
+595,35162.0,Intermediate,Biology & Life Sciences,English,English,169.0
+596,19728.0,Introductory,Humanities,English,English,49.0
+597,5311.0,Advanced,Computer Science,English,English,149.0
+598,25041.0,Introductory,Engineering,English,"English, 日本語",50.0
+599,,Introductory,Language,Español,Español,49.0
+600,11184.0,Introductory,Computer Science,Español,Español,49.0
+601,,Introductory,Computer Science,Español,Español,49.0
+602,11443.0,Introductory,Social Sciences,English,English,49.0
+603,6923.0,Introductory,Business & Management,English,English,149.0
+604,7581.0,Introductory,Electronics,English,English,50.0
+605,,Introductory,Economics & Finance,English,English,199.0
+606,20261.0,Introductory,Medicine,Español,Español,49.0
+607,13340.0,Intermediate,Business & Management,English,English,299.0
+608,,Introductory,Communication,English,English,199.0
+609,41021.0,Intermediate,Computer Science,English,English,249.0
+610,27761.0,Intermediate,Computer Science,English,English,149.0
+611,7460.0,Introductory,Communication,English,English,49.0
+612,22089.0,Advanced,Engineering,English,English,249.0
+613,40106.0,Intermediate,Computer Science,English,English,199.0
+614,26600.0,Introductory,Biology & Life Sciences,English,English,49.0
+615,69064.0,Introductory,Business & Management,English,English,50.0
+616,6409.0,Introductory,Economics & Finance,Español,Español,49.0
+617,19171.0,Introductory,Computer Science,English,English,49.0
+618,65711.0,Intermediate,Physics,English,English,50.0
+619,8644.0,Intermediate,Environmental Studies,English,English,50.0
+620,21591.0,Introductory,Computer Science,English,English,199.0
+621,8192.0,Introductory,Computer Science,English,English,49.0
+622,7360.0,Introductory,Science,Español,"English, Español",50.0
+623,46607.0,Introductory,Business & Management,English,English,49.0
+624,13480.0,Introductory,Computer Science,Español,Español,49.0
+625,5980.0,Intermediate,Data Analysis & Statistics,Español,Español,49.0
+626,,Introductory,Business & Management,Español,Español,49.0
+627,10488.0,Intermediate,Environmental Studies,English,"English, Русский",49.0
+628,,Introductory,Economics & Finance,English,English,79.0
+629,5410.0,Introductory,Economics & Finance,English,English,99.0
+630,23441.0,Intermediate,Business & Management,Español,Español,79.0
+631,,Introductory,Data Analysis & Statistics,Español,Español,39.0
+632,,Intermediate,Health & Safety,Español,"English, Español",29.0
+633,9762.0,Intermediate,Engineering,Español,Español,49.0
+634,17055.0,Intermediate,Business & Management,English,English,99.0
+635,,Introductory,Business & Management,Português,Português,149.0
+636,5719.0,Introductory,Humanities,English,English,49.0
+637,16905.0,Intermediate,Engineering,English,English,150.0
+638,,Introductory,Medicine,English,"English, Français, 中文, 中文",99.0
+639,33656.0,Introductory,Business & Management,English,"Deutsch, English, Español, Français",99.0
+640,28472.0,Introductory,Environmental Studies,English,,99.0
+641,37158.0,Introductory,Computer Science,English,English,50.0
+642,9144.0,Intermediate,Computer Science,Español,Español,49.0
+643,,Introductory,Philanthropy,English,English,50.0
+644,28337.0,Introductory,Business & Management,Português,Português,49.0
+645,12918.0,Intermediate,Business & Management,English,English,249.0
+646,,Introductory,Computer Science,English,English,166.0
+647,10551.0,Introductory,Engineering,English,English,49.0
+648,5280.0,Introductory,Energy & Earth Sciences,English,English,129.0
+649,,Intermediate,Business & Management,Español,Español,49.0
+650,5914.0,Introductory,Computer Science,English,English,99.0
+651,10858.0,Introductory,Language,English,English,139.0
+652,,Introductory,Education & Teacher Training,English,English,49.0
+653,18943.0,Introductory,Social Sciences,English,English,49.0
+654,23703.0,Introductory,Math,Español,Español,50.0
+655,8565.0,Introductory,Medicine,English,"English, 中文, 中文",139.0
+656,28398.0,Introductory,Humanities,Español,Español,49.0
+657,,Introductory,Language,English,English,99.0
+658,43009.0,Intermediate,Computer Science,English,English,199.0
+659,6594.0,Intermediate,Math,English,English,49.0
+660,16028.0,Introductory,Social Sciences,Español,"English, Español",25.0
+661,,Introductory,Business & Management,English,English,199.0
+662,,Introductory,Social Sciences,English,English,49.0
+663,32049.0,Introductory,Economics & Finance,English,English,25.0
+664,7246.0,Intermediate,Social Sciences,English,English,50.0
+665,12719.0,Intermediate,Environmental Studies,English,"English, Русский",49.0
+666,16954.0,Intermediate,Education & Teacher Training,Español,Español,49.0
+667,15914.0,Intermediate,Physics,English,"English, Русский",49.0
+668,,Introductory,History,English,English,50.0
+669,,Advanced,Economics & Finance,Español,Español,49.0
+670,,Intermediate,Engineering,Español,Español,75.0
+671,,Intermediate,Business & Management,Español,Español,29.0
+672,,Introductory,Language,اللغة العربية,اللغة العربية,49.0
+673,8330.0,Intermediate,Physics,English,English,79.0
+674,11426.0,Introductory,Social Sciences,English,English,59.0
+675,10604.0,Intermediate,Math,English,English,49.0
+676,5020.0,Introductory,Business & Management,English,English,149.0
+677,9977.0,Intermediate,Economics & Finance,English,English,79.0
+678,20939.0,Introductory,Engineering,Español,Español,29.0
+679,8784.0,Introductory,Language,English,English,149.0
+680,10769.0,Intermediate,Business & Management,English,English,299.0
+681,24301.0,Introductory,Math,Español,Español,50.0
+682,27320.0,Introductory,Computer Science,Español,Español,49.0
+683,14909.0,Advanced,Data Analysis & Statistics,English,English,169.0
+684,13857.0,Advanced,Engineering,English,English,249.0
+685,138884.0,Introductory,Business & Management,English,English,199.0
+686,,Introductory,Math,English,English,79.0
+687,,Advanced,Engineering,English,English,250.0
+688,7210.0,Introductory,Economics & Finance,Español,Español,49.0
+689,27474.0,Intermediate,Computer Science,Español,Español,50.0
+690,10430.0,Intermediate,Energy & Earth Sciences,English,English,49.0
+691,24130.0,Introductory,Data Analysis & Statistics,Español,Español,49.0
+692,,Intermediate,Medicine,English,English,49.0
+693,,Intermediate,Economics & Finance,Español,Español,49.0
+694,10654.0,Advanced,Engineering,English,English,199.0
+695,36320.0,Intermediate,Engineering,English,English,50.0
+696,11176.0,Intermediate,Humanities,English,English,50.0
+697,,Introductory,Communication,English,English,199.0
+698,11818.0,Introductory,Social Sciences,English,English,49.0
+699,6322.0,Introductory,Electronics,Español,Español,50.0
+700,23560.0,Advanced,Biology & Life Sciences,English,English,249.0
+701,9173.0,Intermediate,Computer Science,English,English,99.0
+702,7304.0,Advanced,Data Analysis & Statistics,English,English,249.0
+703,34279.0,Introductory,Math,English,English,59.0
+704,9002.0,Introductory,Biology & Life Sciences,English,English,79.0
+705,16134.0,Advanced,Social Sciences,English,English,199.0
+706,6938.0,Introductory,Medicine,中文,"English, 中文",49.0
+707,6738.0,Intermediate,Humanities,English,English,49.0
+708,,Introductory,Environmental Studies,Español,Español,29.0
+709,39156.0,Introductory,Business & Management,English,English,199.0
+710,5668.0,Intermediate,Medicine,English,English,179.0
+711,6128.0,Intermediate,Computer Science,English,English,99.0
+712,,Introductory,Business & Management,English,English,199.0
+713,6951.0,Introductory,Biology & Life Sciences,English,English,50.0
+714,19603.0,Introductory,Social Sciences,English,English,49.0
+715,44821.0,Introductory,Humanities,English,English,99.0
+716,19717.0,Advanced,Communication,English,English,199.0
+717,11501.0,Intermediate,Business & Management,English,English,249.0
+718,9169.0,Advanced,Engineering,English,English,149.0
+719,14998.0,Intermediate,Business & Management,English,English,249.0
+720,19330.0,Intermediate,Economics & Finance,English,English,25.0
+721,17436.0,Introductory,Computer Science,English,English,169.0
+722,5018.0,Intermediate,Computer Science,English,English,149.0
+723,25295.0,Introductory,Data Analysis & Statistics,Español,Español,49.0
+724,22814.0,Intermediate,Communication,English,English,49.0
+725,7104.0,Introductory,Education & Teacher Training,English,English,99.0
+726,18456.0,Introductory,Social Sciences,English,"English, Español",129.0
+727,,Intermediate,Computer Science,English,English,49.0
+728,22136.0,Introductory,Computer Science,English,English,199.0
+729,,Introductory,History,English,English,50.0
+730,46053.0,Introductory,History,English,"English, 中文",139.0
+731,14902.0,Introductory,Health & Safety,Español,Español,49.0
+732,23253.0,Introductory,Education & Teacher Training,Español,Español,25.0
+733,,Advanced,Physics,English,English,149.0
+734,40408.0,Intermediate,Engineering,English,English,50.0
+735,6826.0,Introductory,Social Sciences,English,English,99.0
+736,7869.0,Introductory,Music,Español,Español,49.0
+737,12425.0,Intermediate,Electronics,English,"English, 中文",70.0
+738,9340.0,Introductory,Music,English,English,99.0
+739,5102.0,Intermediate,Computer Science,Español,Español,49.0
+740,,Introductory,Business & Management,English,English,50.0
+741,33021.0,Introductory,Business & Management,Français,Français,150.0
+742,20068.0,Advanced,Engineering,English,English,250.0
+743,12630.0,Intermediate,Computer Science,English,English,99.0
+744,,Intermediate,Data Analysis & Statistics,English,English,199.0
+745,9868.0,Intermediate,Math,Español,Español,49.0
+746,,Introductory,Data Analysis & Statistics,English,English,49.0
+747,23031.0,Introductory,Biology & Life Sciences,English,English,99.0
+748,47166.0,Introductory,History,English,"English, 中文",139.0
+749,,Introductory,Data Analysis & Statistics,Español,Español,39.0
+750,25244.0,Advanced,Computer Science,English,English,149.0
+751,62362.0,Intermediate,Computer Science,English,English,50.0
+752,65955.0,Introductory,Business & Management,Español,Español,25.0
+753,10412.0,Introductory,Social Sciences,English,English,139.0
+754,,Introductory,Business & Management,Español,Español,49.0
+755,6913.0,Introductory,Economics & Finance,Português,Português,25.0
+756,7186.0,Advanced,Engineering,English,English,99.0
+757,15419.0,Advanced,Data Analysis & Statistics,English,English,49.0
+758,8990.0,Introductory,Social Sciences,Español,Español,49.0
+759,8418.0,Intermediate,Language,English,English,149.0
+760,,Introductory,Computer Science,English,English,50.0
+761,13797.0,Introductory,Math,English,English,25.0
+762,13912.0,Intermediate,Computer Science,English,English,49.0
+763,10657.0,Introductory,Computer Science,Deutsch,Deutsch,49.0
+764,21507.0,Introductory,Computer Science,English,English,199.0
+765,10129.0,Intermediate,Computer Science,English,English,99.0
+766,16419.0,Intermediate,Education & Teacher Training,English,English,299.0
+767,16520.0,Advanced,Biology & Life Sciences,English,"English, 中文",99.0
+768,8517.0,Introductory,Art & Culture,English,English,49.0
+769,13994.0,Intermediate,Computer Science,Español,Español,50.0
+770,7769.0,Introductory,Engineering,English,English,50.0
+771,,Introductory,Math,English,English,79.0
+772,29885.0,Intermediate,Data Analysis & Statistics,Español,Español,65.0
+773,17914.0,Introductory,Business & Management,English,English,199.0
+774,26063.0,Advanced,Data Analysis & Statistics,English,English,149.0
+775,,Introductory,Medicine,English,English,50.0
+776,5891.0,Intermediate,Economics & Finance,Español,Español,49.0
+777,8884.0,Intermediate,Computer Science,English,English,99.0
+778,,Intermediate,Data Analysis & Statistics,English,English,25.0
+779,27814.0,Intermediate,Computer Science,English,English,49.0
+780,12458.0,Introductory,Humanities,English,"English, 中文",50.0
+781,8621.0,Intermediate,Data Analysis & Statistics,English,English,199.0
+782,7654.0,Introductory,Law,Español,Español,49.0
+783,10127.0,Introductory,History,English,"English, Русский",25.0
+784,6521.0,Introductory,History,English,English,40.0
+785,15701.0,Introductory,Education & Teacher Training,Español,Español,25.0
+786,,Introductory,Computer Science,English,English,99.0
+787,5035.0,Introductory,Communication,English,English,199.0
+788,10736.0,Introductory,Social Sciences,English,English,199.0
+789,,Introductory,Engineering,English,English,49.0
+790,,Intermediate,Medicine,English,English,99.0
+791,,Introductory,Medicine,English,English,149.0
+792,9668.0,Intermediate,Energy & Earth Sciences,English,"اللغة العربية, English, Español, Français, Русский",49.0
+793,15860.0,Intermediate,Business & Management,English,English,99.0
+794,5048.0,Introductory,Environmental Studies,English,English,199.0
+795,11765.0,Intermediate,Computer Science,English,English,99.0
+796,12748.0,Introductory,Chemistry,Español,Español,49.0
+797,5829.0,Intermediate,Economics & Finance,Español,Español,49.0
+798,23585.0,Intermediate,Business & Management,English,English,249.0
+799,13502.0,Intermediate,Computer Science,English,English,49.0
+800,,Intermediate,Architecture,English,English,59.0
+801,5820.0,Introductory,Computer Science,Español,Español,50.0
+802,6232.0,Intermediate,Math,English,English,49.0
+803,14219.0,Introductory,Physics,Español,Español,49.0
+804,21949.0,Introductory,Business & Management,English,English,199.0
+805,15184.0,Introductory,Business & Management,English,English,300.0
+806,9383.0,Introductory,Philosophy & Ethics,Español,Español,29.0
+807,,Advanced,Environmental Studies,English,English,49.0
+808,6460.0,Introductory,Communication,Español,Español,50.0
+809,11953.0,Intermediate,Electronics,Español,Español,49.0
+810,12145.0,Introductory,Physics,English,English,49.0
+811,71203.0,Introductory,Computer Science,English,English,99.0
+812,29433.0,Introductory,Economics & Finance,English,English,49.0
+813,12056.0,Introductory,Education & Teacher Training,English,"English, Español",25.0
+814,,Introductory,Language,Español,Español,49.0
+815,8429.0,Advanced,Data Analysis & Statistics,English,English,99.0
+816,10696.0,Introductory,Economics & Finance,English,"English, English, 中文, 中文",199.0
+817,23828.0,Advanced,Engineering,English,English,139.0
+818,19926.0,Introductory,Engineering,English,English,129.0
+819,,Advanced,Business & Management,English,English,149.0
+820,5540.0,Introductory,Education & Teacher Training,English,English,25.0
+821,14199.0,Intermediate,Business & Management,English,English,50.0
+822,,Intermediate,Engineering,English,English,150.0
+823,14846.0,Intermediate,Physics,English,English,49.0
+824,12415.0,Advanced,Social Sciences,English,English,49.0
+825,,Introductory,Education & Teacher Training,Español,Español,49.0
+826,6608.0,Introductory,Philosophy & Ethics,English,English,49.0
+827,,Introductory,Communication,English,English,199.0
+828,12853.0,Introductory,Humanities,English,English,49.0
+829,24273.0,Advanced,Education & Teacher Training,English,English,199.0
+830,,Introductory,Business & Management,English,English,149.0
+831,,Intermediate,Math,English,English,49.0
+832,,Introductory,Art & Culture,English,English,249.0
+833,11859.0,Introductory,Chemistry,Español,Español,25.0
+834,11865.0,Introductory,Science,English,English,49.0
+835,60943.0,Introductory,Communication,English,English,25.0
+836,13616.0,Introductory,Communication,English,English,139.0
+837,17299.0,Introductory,Business & Management,English,English,199.0
+838,22327.0,Introductory,Education & Teacher Training,English,English,99.0
+839,,Introductory,Education & Teacher Training,Español,Español,49.0
+840,8342.0,Advanced,Business & Management,English,English,214.0
+841,33710.0,Introductory,Computer Science,English,English,49.0
+842,16904.0,Advanced,Computer Science,English,English,399.0
+843,6570.0,Introductory,Data Analysis & Statistics,English,English,25.0
+844,20189.0,Introductory,Engineering,Español,Español,25.0
+845,5464.0,Advanced,Energy & Earth Sciences,English,English,149.0
+846,15157.0,Intermediate,Medicine,English,English,139.0
+847,,Intermediate,Data Analysis & Statistics,Español,Español,49.0
+848,,Advanced,Data Analysis & Statistics,Español,Español,49.0
+849,17087.0,Introductory,Humanities,English,English,99.0
+850,6277.0,Intermediate,Design,English,English,50.0
+851,17946.0,Introductory,Design,English,English,129.0
+852,,Intermediate,Biology & Life Sciences,Español,"English, Español",99.0
+853,9717.0,Advanced,Engineering,English,English,150.0
+854,13277.0,Introductory,History,Español,Español,19.0
+855,22269.0,Introductory,Business & Management,English,English,199.0
+856,9071.0,Introductory,Humanities,English,English,50.0
+857,43045.0,Introductory,History,English,"English, 中文",139.0
+858,6573.0,Intermediate,Social Sciences,English,English,50.0
+859,17505.0,Introductory,Computer Science,English,English,199.0
+860,41268.0,Introductory,Computer Science,English,English,199.0
+861,,Intermediate,Economics & Finance,English,English,25.0
+862,9709.0,Advanced,Engineering,English,English,299.0
+863,,Introductory,Music,Español,Español,30.0
+864,8222.0,Introductory,Humanities,English,English,49.0
+865,15014.0,Introductory,Science,English,English,50.0
+866,20444.0,Introductory,Engineering,English,English,169.0
+867,15349.0,Introductory,Philosophy & Ethics,Español,Español,49.0
+868,16719.0,Intermediate,Business & Management,English,English,199.0
+869,23275.0,Introductory,Computer Science,English,English,199.0
+870,,Intermediate,Engineering,English,English,49.0
+871,,Intermediate,Computer Science,English,English,149.0
+872,12318.0,Introductory,Medicine,English,English,139.0
+873,5517.0,Intermediate,Biology & Life Sciences,English,English,169.0
+874,71290.0,Introductory,Computer Science,English,English,99.0
+875,48539.0,Intermediate,Physics,English,English,50.0
+876,,Introductory,Energy & Earth Sciences,English,English,129.0
+877,,Introductory,Business & Management,English,English,149.0
+878,,Introductory,Data Analysis & Statistics,English,English,39.0
+879,14266.0,Intermediate,Humanities,Español,Español,49.0
+880,24444.0,Introductory,Computer Science,English,English,169.0
+881,,Introductory,Engineering,Español,Español,25.0
+882,,Introductory,Medicine,English,English,50.0
+883,6216.0,Introductory,Law,English,English,29.0
+884,,Introductory,Business & Management,English,English,149.0
+885,16423.0,Intermediate,Business & Management,Español,Español,25.0
+886,10969.0,Intermediate,Business & Management,Español,Español,49.0
+887,6934.0,Introductory,Social Sciences,English,English,59.0
+888,,Introductory,Law,Español,Español,49.0
+889,27241.0,Intermediate,Computer Science,English,English,299.0
+890,11055.0,Advanced,Social Sciences,English,English,199.0
+891,7525.0,Introductory,Humanities,English,English,49.0
+892,8006.0,Intermediate,Economics & Finance,English,English,199.0
+893,8907.0,Introductory,Chemistry,Español,Español,49.0
+894,5157.0,Intermediate,History,English,English,50.0
+895,12159.0,Introductory,Education & Teacher Training,English,English,99.0
+896,,Introductory,History,Español,Español,29.0
+897,,Introductory,Math,English,English,79.0
+898,,Introductory,Health & Safety,English,English,49.0
+899,,Introductory,Language,English,English,99.0
+900,,Introductory,Economics & Finance,English,English,50.0
+901,7031.0,Introductory,Economics & Finance,English,English,49.0
+902,6358.0,Intermediate,Law,English,English,199.0
+903,,Introductory,Engineering,English,English,129.0
+904,,Introductory,Engineering,Español,Español,25.0
+905,16015.0,Intermediate,Engineering,English,English,50.0
+906,11431.0,Introductory,Business & Management,Español,Español,50.0
+907,,Introductory,Business & Management,English,English,50.0
+908,8542.0,Introductory,Math,English,English,49.0
+909,,Advanced,Computer Science,English,English,49.0
+910,27182.0,Introductory,Business & Management,English,English,50.0
+911,38581.0,Introductory,Environmental Studies,Español,Español,25.0
+912,7421.0,Introductory,Social Sciences,English,English,59.0
+913,34190.0,Introductory,Computer Science,English,English,125.0
+914,19043.0,Advanced,Engineering,English,English,99.0
+915,16094.0,Advanced,Engineering,English,"English, Français",199.0
+916,7501.0,Intermediate,Science,English,English,49.0
+917,14003.0,Intermediate,Business & Management,English,English,149.0
+918,16467.0,Intermediate,Social Sciences,English,English,169.0
+919,20406.0,Introductory,Business & Management,English,English,139.0
+920,9522.0,Advanced,Social Sciences,English,English,199.0
+921,,Introductory,Social Sciences,English,English,139.0
+922,8343.0,Introductory,Medicine,English,English,59.0
+923,10019.0,Intermediate,Social Sciences,English,"English, Português, Русский",49.0
+924,,Advanced,Computer Science,English,English,199.0
+925,8581.0,Advanced,Engineering,English,English,249.0
+926,,Advanced,Energy & Earth Sciences,English,English,149.0
+927,6237.0,Intermediate,Business & Management,English,English,199.0
+928,14128.0,Introductory,Humanities,English,English,49.0
+929,5741.0,Introductory,Social Sciences,English,English,139.0
+930,22349.0,Intermediate,Computer Science,English,English,99.0
+931,,Introductory,Data Analysis & Statistics,Español,Español,49.0
+932,,Introductory,Language,English,English,99.0
+933,,Introductory,Social Sciences,Español,Español,49.0
+934,27763.0,Introductory,Engineering,English,English,50.0
+935,19283.0,Introductory,Computer Science,English,English,199.0
+936,12674.0,Introductory,Humanities,Español,Español,29.0
+937,13183.0,Intermediate,Physics,English,English,49.0
+938,,Introductory,Medicine,English,English,199.0
+939,,Introductory,Computer Science,English,English,50.0
+940,,Introductory,Economics & Finance,English,English,49.0
+941,7911.0,Introductory,Business & Management,Español,Español,149.0
+942,23100.0,Intermediate,Computer Science,English,English,125.0
+943,,Introductory,Computer Science,English,English,199.0
+944,,Intermediate,Social Sciences,Français,Français,50.0
+945,17941.0,Introductory,History,English,English,50.0
+946,,Intermediate,Business & Management,English,English,99.0
+947,,Advanced,Energy & Earth Sciences,English,English,149.0
+948,11895.0,Advanced,Education & Teacher Training,English,English,199.0
+949,5930.0,Introductory,Social Sciences,English,English,49.0
+950,10817.0,Introductory,Business & Management,English,English,49.0
+951,,Intermediate,Economics & Finance,English,English,149.0
+952,34261.0,Introductory,Computer Science,English,English,60.0
+953,41537.0,Introductory,History,English,"English, 中文",139.0
+954,6443.0,Introductory,Humanities,English,English,49.0
+955,28100.0,Introductory,Business & Management,Español,Español,150.0
+956,25893.0,Intermediate,Biology & Life Sciences,English,English,169.0
+957,6149.0,Introductory,Science,Español,"English, Español",50.0
+958,,Intermediate,Math,English,English,199.0
+959,10205.0,Advanced,Engineering,English,English,169.0
+960,15040.0,Introductory,Physics,Español,Español,49.0
+961,6480.0,Intermediate,Food & Nutrition,English,"English, Français, Italiano",49.0
+962,,Introductory,Computer Science,English,English,299.0
+963,9294.0,Intermediate,Data Analysis & Statistics,English,English,99.0
+964,20355.0,Introductory,Education & Teacher Training,English,English,99.0
+965,,Introductory,Data Analysis & Statistics,English,English,49.0
+966,8657.0,Introductory,Science,Español,"English, Español",50.0
+967,,Intermediate,Science,English,English,149.0
+968,,Introductory,Math,English,English,79.0
+969,41902.0,Introductory,History,English,"English, 中文",139.0
+970,,Intermediate,Social Sciences,English,English,25.0
+971,,Introductory,Art & Culture,中文,"English, 中文",139.0
+972,11246.0,Advanced,Biology & Life Sciences,English,English,139.0
+973,8775.0,Introductory,Environmental Studies,English,English,25.0
+974,,Introductory,Math,English,English,79.0
